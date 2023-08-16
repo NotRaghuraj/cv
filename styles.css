@@ -1,0 +1,48 @@
+body {
+    background-color: black;
+    color: white;
+}
+.dp {
+    filter: grayscale(100%);
+    -webkit-filter: grayscale(100%);
+    border-radius: 50%;
+  }
+
+.social {
+    background-color:white;
+    filter: grayscale(100%);
+    -webkit-filter: grayscale(100%);
+    border-radius: 50%;
+    width: 2em;
+}
+.social:hover {
+    background-color: ;
+}
+a:link {
+  color: black;
+  background-color: transparent;
+  text-decoration: none;
+}
+
+a:visited {
+  color: grey;
+  background-color: transparent;
+  text-decoration: none;
+}
+
+a:hover {
+  color: darkgrey;
+  background-color: transparent;
+  text-decoration: none;
+}
+
+a:active {
+  color: yellow;
+  background-color: transparent;
+  text-decoration: none;
+}
+
+p {
+    position: relative;
+    
+}
